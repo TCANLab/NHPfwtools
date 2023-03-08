@@ -15,4 +15,4 @@ DTI_to_T2_ants.sh: This script uses the ANTS software package (http://stnava.git
 
 report_masked_tF_data.sh and report_masked_tFA_data.sh: These tools use segmented and parcellated region of interest masks generated with tools such as AutoSeg and NeoSeg (https://github.com/NIRALUser).  Extracellular free water and tFA data are computed for each mask and exported to a text file.
 
-MEASUREMENT DATA: Please check back regularly.  Measurement data for a manuscript in press utilizing these scripts will be uploaded and the published manuscript link will be added here.
+MEASUREMENT DATA: Please check back regularly.  Measurement data for a manuscript under revision utilizing these scripts will be uploaded and the published manuscript link will be added here.

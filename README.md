@@ -15,4 +15,5 @@ DTI_to_T2_ants.sh: This script uses the ANTS software package (http://stnava.git
 
 report_masked_tF_data.sh and report_masked_tFA_data.sh: These tools use segmented and parcellated region of interest masks generated with tools such as AutoSeg and NeoSeg (https://github.com/NIRALUser).  Extracellular free water and tFA data are computed for each mask and exported to a text file.
 
-MEASUREMENT DATA: Please check back regularly.  Measurement data for a manuscript under revision utilizing these scripts will be uploaded and the published manuscript link will be added here.
+MEASUREMENT DATA: 
+Included are measurement data from the manuscript "Extracellular Free Water Elevations are Associated with Brain Volume and Maternal Cytokine Response in a Longitudinal Nonhuman Primate Maternal Immune Activation Model" by Lesh et al. published in Molecular Psychiatry (https://pmc.ncbi.nlm.nih.gov/articles/PMC10867284/). These include the _Data.csv, _DataDictionary.docx, and _DavaVariables.pdf files.
